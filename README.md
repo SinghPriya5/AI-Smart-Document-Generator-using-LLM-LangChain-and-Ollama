@@ -1,4 +1,6 @@
 # 🤖 AI Smart Document Generator (LLM Powered)
+🔗 [Project](https://www.linkedin.com/posts/priya-singh-0a815b261_artificialintelligence-generativeai-langchain-activity-7436868420450549761-7GT5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBFu8ABmeXJXmtGXQ0X6T79P1X5hsGOmws)
+---
 
 An intelligent **Generative AI chatbot** that can automatically generate multiple types of documents such as **Grade Cards, Reports, and Invitation Cards** from user input or uploaded files.
 
@@ -217,7 +219,7 @@ MCA Student | AI & Data Science Enthusiast
 
 Skills: Python • Machine Learning • Generative AI • Data Analysis
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/priya-singh-0a815b261_artificialintelligence-generativeai-langchain-activity-7436868420450549761-7GT5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBFu8ABmeXJXmtGXQ0X6T79P1X5hsGOmws)
+🔗 [LinkedIn](https://www.linkedin.com/in/priya-singh-0a815b261/)
 ---
 
 # ⭐ If you like this project
