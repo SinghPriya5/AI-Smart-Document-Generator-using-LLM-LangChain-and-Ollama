@@ -217,6 +217,7 @@ MCA Student | AI & Data Science Enthusiast
 
 Skills: Python • Machine Learning • Generative AI • Data Analysis
 
+🔗 [LinkedIn](https://www.linkedin.com/posts/priya-singh-0a815b261_artificialintelligence-generativeai-langchain-activity-7436868420450549761-7GT5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBFu8ABmeXJXmtGXQ0X6T79P1X5hsGOmws)
 ---
 
 # ⭐ If you like this project
