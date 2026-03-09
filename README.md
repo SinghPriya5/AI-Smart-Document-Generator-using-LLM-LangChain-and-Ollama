@@ -20,16 +20,16 @@ The system integrates **Large Language Models (LLMs)** with **LangChain workflow
 
 ---
 
-# 🧠 Key Features
+## 🧠 Key Features
 
-✔ AI-powered document generation
-✔ Chat-based user interaction
-✔ Grade card generation from student data
-✔ Wedding / event invitation generator
-✔ File upload support (CSV / Excel)
-✔ PDF export functionality
-✔ Image-based invitation card creation
-✔ Modular architecture for future expansion
+- AI-powered document generation
+- Chat-based user interaction
+- Grade card generation from student data
+- Wedding / event invitation generator
+- File upload support (CSV / Excel)
+- PDF export functionality
+- Image-based invitation card creation
+- Modular architecture for future expansion
 ---
 
 # 🏗️ System Architecture
